@@ -74,5 +74,3 @@ Enter PW when promted
 No testing is currently set up
 
 ## Contributing
-
-[Ahmed Abdikadir](https://github.com/Axmedd)
